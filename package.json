@@ -1,0 +1,9 @@
+{
+	"name": "i81n",
+	"version": "1.0.0",
+	"description": "An ultra lightweight translation library using tagged template literals.",
+	"main": "index.js",
+	"repository": "https://github.com/loicnestler/i81n.git",
+	"author": "loicnestler <loicnestler@gmail.com>",
+	"license": "GPL-3.0-or-later"
+}
